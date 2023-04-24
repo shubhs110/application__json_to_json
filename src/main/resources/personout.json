@@ -1,0 +1,11 @@
+[
+	{
+	"firstName": "Shubham",
+	"lastName": "Agarwal",
+	"age":" 25",
+	"address":{"street":"abc",
+	            "city":"Ajmer",
+	            "zip": "305624"},
+	"cars":["Toyota Corolla", "Honda Civic"]
+ }
+]
